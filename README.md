@@ -8,9 +8,6 @@ what up guy
 # WHO ARE YOU
 sdaojfhdasuijfhaiucjhznsduijnucjikvmnsduijkhlnxcvuijhscxuihvduicjklhvuojldfkhcuxjlkhvfudojxcklhvnufijhxcbufdjhxcnbuifdjhnbcvuijbhfduiojkbvcxiocxjvuifdhjvnxcuhbfnuihvjcxn
 # changlog
-2.1 (current)
-- fix!!!!!!!!!!!!!!!!<br>
-2.0 (previous)
-- did some trolling<br>
-1.0
-- creation of every thing here
+2.1 (current) did some trolling again lol<br>
+2.0 (previous) did some trolling<br>
+1.0 creation of every thing here
